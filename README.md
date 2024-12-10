@@ -1,7 +1,7 @@
 # CognoRise-Infotech
 This houses my Internship Projects at CognoRise Infotech
-Detailed Report on Employees' Salaries for Different Job Roles.
-This report provides a comprehensive analysis of employee salaries across various job roles, leveraging key metrics to offer actionable insights. The analysis focused on trends, distributions, and correlations that influence workforce strategies. The following Key Performance Indicators (KPIs) were used to enhance the insights derived from the data:
+# Detailed Report on Employees' Salaries for Different Job Roles.
+# This report provides a comprehensive analysis of employee salaries across various job roles, leveraging key metrics to offer actionable insights. The analysis focused on trends, distributions, and correlations that influence workforce strategies. The following Key Performance Indicators (KPIs) were used to enhance the insights derived from the data:
 Key Performance Indicators (KPIs)
 #	Salary Progression Ratio: Tracks changes in salaries over time to assess growth patterns.
 #	Average Salary by Company Size: Highlights differences in compensation based on company size.
